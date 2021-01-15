@@ -1,4 +1,3 @@
-# Markowitz-portfolio-optimization
 
 ## This project is shared in resume for recruiters
 
